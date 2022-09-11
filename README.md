@@ -1,4 +1,4 @@
-![My Image](João-Gonçalves.png)
+
 
 <h1 align="center">Hi 👋, I'm João Gonçalves</h1>
 <h3 align="center">A Portuguese Navy Officer passionate with mathematics programming</h3>
