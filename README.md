@@ -23,6 +23,6 @@
 
 ***
 
-<p><&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joaogoncalves1500&show_icons=true&locale=en" alt="joaogoncalves1500" /></p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogoncalves1500&show_icons=true&locale=en&layout=compact" alt="joaogoncalves1500" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joaogoncalves1500&show_icons=true&locale=en" alt="joaogoncalves1500" /></p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogoncalves1500&show_icons=true&locale=en&layout=compact" alt="joaogoncalves1500" /></p>
 
 
