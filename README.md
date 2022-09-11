@@ -1,4 +1,4 @@
-
+![ocean](https://github.com/JoaoGoncalves1500/JoaoGoncalves1500/blob/main/Jo%C3%A3o%20Gon%C3%A7alves.png)
 
 <h1 align="center">Hi 👋, I'm João Gonçalves</h1>
 <h3 align="center">A Portuguese Navy Officer passionate with mathematics programming</h3>
