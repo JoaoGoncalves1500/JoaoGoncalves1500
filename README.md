@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/joão-duarte-gonçalves-5b3bab237" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joão-duarte-gonçalves-5b3bab237" height="28" width="100" /></a>
 <a href="https://instagram.com/joaopdgoncalves" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="joaopdgoncalves" height="28" width="120" /></a>
-<a href="https://instagram.com/joaopdgoncalves" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="joaopdgoncalves" height="28" width="120" /></a>
+<a href="https://instagram.com/joaopdgoncalves" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="joaopdgoncalves" height="28" width="90" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,6 +23,6 @@
 
 ***
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogoncalves1500&show_icons=true&locale=en&layout=compact" alt="joaogoncalves1500" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaogoncalves1500&show_icons=true&locale=en" alt="joaogoncalves1500" /></p>
+<p><&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joaogoncalves1500&show_icons=true&locale=en" alt="joaogoncalves1500" /></p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogoncalves1500&show_icons=true&locale=en&layout=compact" alt="joaogoncalves1500" /></p>
 
 
