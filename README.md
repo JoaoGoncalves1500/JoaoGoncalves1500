@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/joão-duarte-gonçalves-5b3bab237" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joão-duarte-gonçalves-5b3bab237" height="28" width="100" /></a>
 <a href="https://instagram.com/joaopdgoncalves" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="joaopdgoncalves" height="28" width="120" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="joaopdgoncalves" height="28" width="90" /></a>
+<a href="mailto:joaopdgoncalves@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="joaopdgoncalves" height="28" width="90" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
